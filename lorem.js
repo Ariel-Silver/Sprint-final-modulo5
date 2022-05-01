@@ -15,7 +15,7 @@ function traer() {
     }) }
   
   
-  
+  //mapea y escribe en el html el contenido del arreglo creado para amacenar los datos
   function recorrerPost(datos){
     verLorem.innerHTML = ''
     arregloLorem.map(e => {
