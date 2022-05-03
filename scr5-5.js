@@ -80,6 +80,7 @@ async function recorrerPost(){
 </div>`})
 })
 }
+/* Funcion para busaueda de noticias Miguel Angel */
 
 function findNews() {
   verPost.innerHTML=``
